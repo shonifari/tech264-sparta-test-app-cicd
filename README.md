@@ -4,4 +4,4 @@
 - "app" folder stores Sparta app
 - uses Node JS v20
 
-a new line to test pipeline
+A new line to test pipeline
